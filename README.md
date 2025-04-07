@@ -18,23 +18,6 @@ An innovative AI-driven story platform that creates personalized, adaptive conte
 - Vite
 - Lucide React Icons
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/kuku-fm-ai-story-generator.git
-```
-
-2. Install dependencies:
-```bash
-cd kuku-fm-ai-story-generator
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
 
 ## Project Structure
 
